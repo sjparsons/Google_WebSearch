@@ -1,9 +1,5 @@
 <?
 
-/* a nice little class that grabs search results from google
-using the RESTful API documented on this page
-http://code.google.com/apis/ajaxsearch/documentation/reference.html#_intro_fonje
- */ 
 
 class Google_WebSearch {
 	
